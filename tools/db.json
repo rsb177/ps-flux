@@ -30,7 +30,7 @@
     },
     {
       "id": 5,
-      "title": "Building Applications with React and Redux",
+      "title": "Building Applications with React and Redux2",
       "slug": "react-redux-react-router-es6",
       "authorId": 1,
       "category": "JavaScript"
@@ -72,19 +72,19 @@
     },
     {
       "id": 11,
-      "slug": "some-title",
-      "title": "some title",
+      "slug": "sdfasdf",
+      "title": "sdfasdf",
       "authorId": 1,
-      "category": "mycat",
-      "createdAt": 1566247968434
+      "category": "asdf",
+      "createdAt": 1566314914804
     },
     {
       "id": 12,
-      "slug": "test-2",
-      "title": "test 2",
+      "slug": "sdf",
+      "title": "sdf",
       "authorId": 1,
       "category": "test",
-      "createdAt": 1566248150721
+      "createdAt": 1566315452834
     }
   ],
   "authors": [
